@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AcceltoFile</string>
+    <string name="foreground_service_started">AcceltoFile</string>
+    <string name="end_classification">AcceltoFile</string>
+    <string name="foreground_ID">AcceltoFile</string>
+    <string name="service_channel">AcceltoFile</string>
+    <string name="channel_accel_service">AcceltoFile</string>
+    <string name="title_activity_record">RecordActivity</string>
+</resources>
